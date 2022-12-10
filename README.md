@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florian Bridges</h1>
-<h3 align="center">A passionate data scientist from Germany</h3>
+<h3 align="center">A Master-Student in Data Science at TUM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florian-bridges&label=Profile%20views&color=0e75b6&style=flat" alt="florian-bridges" /> </p>
 
-- 🔭 I’m currently working on [activeCell-ACDC](https://github.com/florian-bridges/activeCell-ACDC)
+- 🔭 I’m currently working on my master thesis[activeCell-ACDC](https://github.com/florian-bridges/activeCell-ACDC)
 
 - 📫 How to reach me **florian.bridges@tum.de**
 
