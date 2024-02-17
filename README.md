@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Florian Bridges</h1>
-<h3 align="center">A Master-Student in Data Science at TUM</h3>
+<h3 align="center">Data Science Grad from TUM | Flight Test Data Specialist at Avilus | PhD Candidate at TUM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florian-bridges&label=Profile%20views&color=0e75b6&style=flat" alt="florian-bridges" /> </p>
 
-- 🔭 I’m currently working on my master thesis [activeCell-ACDC](https://github.com/florian-bridges/activeCell-ACDC)
+- 🚁 Currently, I'm shaping the future of medical transportation at Avilus, where we develop drones to transport injured individuals. As the Flight Test Data Specialist, I merge data science and engineering to optimize drone performance.
 
-- 📫 How to reach me **florian.bridges@tum.de**
+- 🎓 Additionally, I'm pursuing a Ph.D. in Flight System Dynamics at TUM, focusing on system identification and parameter estimation to advance our understanding of flight dynamics.
+
+- 📫 You can reach me at: **florian.bridges@tum.de**, **florian.bridges@avilus.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
