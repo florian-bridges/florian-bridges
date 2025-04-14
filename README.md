@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florian-bridges&label=Profile%20views&color=0e75b6&style=flat" alt="florian-bridges" /> </p>
 
 - 🚁 Currently, I'm shaping the future of medical transportation at Avilus, where we develop drones to transport injured individuals. As the Flight Test Data Specialist, I merge data science and engineering to optimize drone performance.
-
-- 🎓 Additionally, I'm pursuing a Ph.D. in Flight System Dynamics at TUM, focusing on system identification and parameter estimation to advance our understanding of flight dynamics.
-
 - 📫 You can reach me at: **florian.bridges@tum.de**, **florian.bridges@avilus.com** 
 
 <h3 align="left">Connect with me:</h3>
